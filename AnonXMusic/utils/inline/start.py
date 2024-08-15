@@ -26,10 +26,10 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(text=_["S_B_5"], user_id=config.OWNER_ID),
-            InlineKeyboardButton(text="ʀᴇᴇᴘᴏ", url=f"https://github.com/Roninbyrne/Arthey_Music"),
+            InlineKeyboardButton(text="ʀᴇᴇᴘᴏ", url=f"https://github.com/Danishzain05/SpartanMusic/edit/master/AnonXMusic"),
         ],
         [
-            InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/About_baba"),
+            InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/LinkZone_05"),
             InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_CHAT),
         ],
        [InlineKeyboardButton(text=_["S_B_4"], callback_data="settings_back_helper")],

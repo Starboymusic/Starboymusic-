@@ -26,7 +26,7 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(text=_["S_B_5"], user_id=config.OWNER_ID),
-            InlineKeyboardButton(text="ʀᴇᴇᴘᴏ", url=f"https://github.com/Danishzain05/SpartanMusic/edit/master/AnonXMusic"),
+            InlineKeyboardButton(text="ʀᴇᴇᴘᴏ", url=f"https://github.com/Danish○● 𝒀𝒐𝒈𝒆𝒔𝒉 •》05/SpartanMusic/edit/master/AnonXMusic"),
         ],
         [
             InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/LinkZone_05"),

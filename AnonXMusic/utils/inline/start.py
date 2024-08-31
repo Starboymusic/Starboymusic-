@@ -29,7 +29,7 @@ def private_panel(_):
             InlineKeyboardButton(text="ʀᴇᴇᴘᴏ", url=f"https://github.com/Danish○● 𝒀𝒐𝒈𝒆𝒔𝒉 •》05/SpartanMusic/edit/master/AnonXMusic"),
         ],
         [
-            InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/LinkZone_05"),
+            InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/YKD_KOREAN_DRAMA"),
             InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_CHAT),
         ],
        [InlineKeyboardButton(text=_["S_B_4"], callback_data="settings_back_helper")],

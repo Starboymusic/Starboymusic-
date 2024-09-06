@@ -32,7 +32,7 @@ def convert_text(_, message):
         hex_representation = text_to_hex(input_text)
         decoded_text = hex_to_text(input_text)
 
-        response_text = f"๏ ɪɴᴘᴜᴛ ᴛᴇxᴛ ➠\n {input_text}\n\n๏ ʜᴇx ʀᴇᴘʀᴇsᴇɴᴛᴀᴛɪᴏɴ ➠\n {hex_representation}\n\n๏ ᴅᴇᴄᴏᴅᴇᴅ ᴛᴇxᴛ ➠\n {decoded_text}\n\n\n๏ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➠ 𝐀𝐫𝐭𝐡𝐞𝐲"
+        response_text = f"๏ ɪɴᴘᴜᴛ ᴛᴇxᴛ ➠\n {input_text}\n\n๏ ʜᴇx ʀᴇᴘʀᴇsᴇɴᴛᴀᴛɪᴏɴ ➠\n {hex_representation}\n\n๏ ᴅᴇᴄᴏᴅᴇᴅ ᴛᴇxᴛ ➠\n {decoded_text}\n\n\n๏ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➠ ○● 𝒀𝒐𝒈𝒆𝒔𝒉 •》👑"
 
         message.reply_text((response_text),reply_markup=InlineKeyboardMarkup(EVAA),)
     else:

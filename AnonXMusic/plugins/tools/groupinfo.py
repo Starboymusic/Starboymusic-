@@ -34,7 +34,7 @@ async def get_group_status(_, message: Message):
         f"● ᴛᴏᴛᴀʟ ᴍᴇᴍʙᴇʀs ➥ {total_members}\n"
         f"● ᴜsᴇʀɴᴀᴍᴇ ➥ @{group_username}\n"
         f"● ᴅᴇsᴄʀɪᴘᴛɪᴏɴ ➥ \n{group_description or 'N/A'}\n\n"
-        f"● ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ 𝐀𝐫𝐭𝐡𝐞𝐲"
+        f"● ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ ○● 𝒀𝒐𝒈𝒆𝒔𝒉 •》👑"
     )
     
     await message.reply((response_text),reply_markup=InlineKeyboardMarkup(EVAA),)

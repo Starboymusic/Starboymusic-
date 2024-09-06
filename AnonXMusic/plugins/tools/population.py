@@ -35,7 +35,7 @@ def country_command_handler(client: Client, message: Message):
                 f"● ɴᴀᴍᴇ ➥ {country_name}\n"
                 f"● ᴄᴀᴘɪᴛᴀʟ ➥ {capital}\n"
                 f"● ᴘᴏᴘᴜʟᴀᴛɪᴏɴ ➥ {population}\n\n"
-                f"❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ~ 𝐀𝐫𝐭𝐡𝐞𝐲"
+                f"❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ~ ○● 𝒀𝒐𝒈𝒆𝒔𝒉 •》👑"
             )
         else:
             response_text = "✦ Error fetching country information from the API."

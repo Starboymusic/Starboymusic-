@@ -61,7 +61,7 @@ def download_song(_, message):
             audio_file,
             thumb=thumb_name,
             title=title,
-            caption=f"❖ {title}\n\n● ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ ➥ {message.from_user.mention}\n● ᴠɪᴇᴡs ➥ {views}\n● ᴄʜᴀɴɴᴇʟ ➥ {channel_name}\n\n❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ ๛ɴ ʏ ᴋ ᴀ ᴀ ࿐",
+            caption=f"❖ {title}\n\n● ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ ➥ {message.from_user.mention}\n● ᴠɪᴇᴡs ➥ {views}\n● ᴄʜᴀɴɴᴇʟ ➥ {channel_name}\n\n❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥○● 𝒀𝒐𝒈𝒆𝒔𝒉 •》👑",
             duration=dur
         )
         m.delete()
